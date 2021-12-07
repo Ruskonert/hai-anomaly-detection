@@ -1,0 +1,9 @@
+*.csv
+models/
+data/
+.ipynb_checkpoints/
+results/
+*.json/
+.vscode/
+*.png
+__pycache__/
